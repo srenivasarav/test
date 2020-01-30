@@ -8,3 +8,7 @@ def multiply(x,y):
     return x*y
 def square(x):
     return x*x
+    pass
+def Modulo(x,y):
+    return x%y
+
